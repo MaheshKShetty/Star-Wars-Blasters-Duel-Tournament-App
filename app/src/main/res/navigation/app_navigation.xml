@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:id="@+id/app_navigation"
+    app:startDestination="@id/PlayerFragment">
+
+    <fragment
+        android:id="@+id/PlayerFragment"
+        android:name="com.mshetty.starwarapp.fragment.PlayersFragment"
+        android:label="PlayersFragment" >
+
+        <action
+            android:id="@+id/action_PlayerFragment_to_playersDetailFragment"
+            app:destination="@id/playersDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/playersDetailFragment"
+        android:name="com.mshetty.starwarapp.fragment.PlayersDetailFragment"
+        android:label="PlayersDetailFragment" />
+</navigation>
