@@ -18,7 +18,6 @@ Usage:
 The app uses pre-loaded JSON data of all matches and player information.
 Select a player from the Points Table to view their match history.
 
- ![Screenshot_20240920_120542](https://github.com/user-attachments/assets/09bf8649-80c3-4106-8789-4afd553d7292)
- ![Screenshot_20240920_120638](https://github.com/user-attachments/assets/fb9b640f-890a-4d98-8d8b-4f7795190002)
 
 
+![Your paragraph text](https://github.com/user-attachments/assets/a797e291-06d1-4df9-8634-68a649e5836f)
